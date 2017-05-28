@@ -10,7 +10,10 @@
     ]
   },
   "keywords": [],
-  "repository": "https://github.com/JACooper/tab-through",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JACooper/tab-through.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
