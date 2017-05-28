@@ -1,7 +1,7 @@
 {
   "name": "tab-through",
   "main": "./lib/tab-through",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A couple key-bindings to move the cursor by 1 position if preceded/succeeded by certain characters.",
   "activationCommands": {
     "atom-text-editor": [
