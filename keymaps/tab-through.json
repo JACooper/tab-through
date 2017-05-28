@@ -1,0 +1,6 @@
+{
+  "atom-text-editor:not([mini])": {
+    "tab": "tab-through:moveRight",
+    "shift-tab": "tab-through:moveLeft"
+  }
+}

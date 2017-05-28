@@ -1,0 +1,21 @@
+{
+  "name": "tab-through",
+  "main": "./lib/tab-through",
+  "version": "0.0.1",
+  "description": "A couple key-bindings to move the cursor by 1 position if preceded/succeeded by certain characters.",
+  "activationCommands": {
+    "atom-text-editor": [
+      "tab-through:moveRight",
+      "tab-through:moveLeft"
+    ]
+  },
+  "keywords": [
+  ],
+  "repository": "https://github.com/JACooper/tab-through",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
